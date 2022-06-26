@@ -1,13 +1,17 @@
 # Amazon_Vine_Analysis
 
-
-
 # Overview of the analysis: 
-Explain the purpose of this analysis.
+Analyzing Amazon reviews written by members of the paid Amazon Vine program. 
+The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
+
+In this project, I used US Wireless dataset from the Amazon Vine program. Used PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, I used SQL to determine if there is any bias toward favorable reviews from Vine members in the dataset. Then, wrote a summary of the analysis for Jennifer to submit to the SellBy stakeholders.
+ 
+Data Source: SQL table schema.csv and Amazon ETL starter code.csv
 
 # Results: 
 
-Using bulleted lists and images of DataFrames as support, address the following questions:
+Colab notebook file:
+https://github.com/Azykan/Amazon_Vine_Analysis/blob/main/Amazon_Reviews.ipynb
 
 ## How many Vine reviews and non-Vine reviews were there?
 ```
