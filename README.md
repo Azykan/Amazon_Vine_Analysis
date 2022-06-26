@@ -272,7 +272,9 @@ In your summary, state if there is any positivity bias for reviews in the Vine p
 
 ## Positivity Bias
 
-Reviews for the Vine program have significanly fewer 5-star reviews as a percentage vs Non-Vine reviews, so there does not appear to be positiviy bias. For the helpful reviews with 20 or more votes, only 36% were 5-star vs 47% 5-star. For all reviews
+Reviews for the Vine program have significanly fewer 5-star reviews as a percentage vs Non-Vine reviews, so there does not appear to be positiviy bias. For the helpful reviews with 20 or more votes, only 36% of Vine reviews were receiving 5-star vs Non-Vine receiving 47% 5-star reviews. For all reviews, 37% of Vine reviews were receiving 5-star vs Non-Vine receiving 53% 5-star reviews.
+
+For an additional analysis, I would suggest segmenting these resuls by Verified vs non-Verified.
 
 
 
